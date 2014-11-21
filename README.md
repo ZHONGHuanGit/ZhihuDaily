@@ -24,4 +24,5 @@ We can see the usage in the following gif.
 ![](https://raw.githubusercontent.com/ZHONGHuanGit/ZhihuDaily/master/zhihuDate.gif)
 
 如果你觉得有趣，请点个star
+
 if you think it is interesting, please click the star.
